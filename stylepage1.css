@@ -1,0 +1,48 @@
+h1
+{
+	    text-align: center;
+    font-size: 1ex;
+    color: rgb(204,204,204);
+    font-family: Tokyotrail, Calibri;
+}
+h2
+{
+	text-align: center;
+	font-size: 3ex;
+    color: rgb(204,204,204);
+    font-family: Calibri; 
+}
+h3
+{
+	
+	font-size: 2.5ex;
+    color: rgb(204,204,204);
+	font-weight: bold;
+    font-family: calibri;
+    text-align: left;
+}
+
+p
+{
+	
+	font-size: 2.5ex;
+    color: rgb(204,204,204);
+	font-weight: bold;
+    font-family: calibri;
+    text-align: center;
+    
+}
+body
+{
+	
+	
+	background-color: black
+	;
+	
+}
+footer
+{
+	font-size: 2ex;
+	text-align: left;
+	}
+	
