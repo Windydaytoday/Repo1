@@ -1,9 +1,10 @@
 h1
 {
-	    text-align: center;
+	text-align: center;
     font-size: 1ex;
     color: rgb(204,204,204);
     font-family: Tokyotrail, Calibri;
+    height: 200%;
 }
 h2
 {
@@ -19,30 +20,48 @@ h3
     color: rgb(204,204,204);
 	font-weight: bold;
     font-family: calibri;
-    text-align: left;
+    text-align: center;
+   
 }
-
+h4
+{	
+	color: grey;
+	font-family: Calibri;
+	font-size: 4ex;
+	text-align: center;
+}
+a
+{
+	color: grey;
+}
+a:hover
+{
+	font-size: 3ex;
+}
 p
 {
-	
 	font-size: 2.5ex;
     color: rgb(204,204,204);
 	font-weight: bold;
     font-family: calibri;
     text-align: center;
-    
+
 }
 body
 {
-	
-	
-	background-color: black
-	;
+		
+	background-color: black;
+	text-align: center;
 	
 }
 footer
 {
-	font-size: 2ex;
-	text-align: left;
+	font-size: 2.5ex;
+	text-align: center;
 	}
-	
+footer:hover
+{
+	font-size: 3ex;
+	color: red;
+	text-decoration: underline;
+}
